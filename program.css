@@ -1,0 +1,122 @@
+/* Basic reset */
+
+
+/* Style the body */
+body {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-color:  #16ace3f7;
+    
+    
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(227, 237, 30);
+}
+body {
+    font-family: Arial, sans-serif;
+    margin: 1;
+    padding: 1;
+}
+
+header {
+    background-color:  rgb(227, 237, 30);
+    color: #000000;
+    padding: 20px;
+    text-align: center;
+}
+
+nav ul {
+    list-style: none;
+    margin: 1;
+    padding: 1;
+    display: flex;
+    justify-content: space-between;
+}
+
+nav li {
+    margin-right: 20px;
+}
+
+nav a {
+    color: #000000;
+    text-decoration: none;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+}
+
+section {
+    background-color:  rgb(227, 237, 30);
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 0 10px  rgb(227, 237, 30);
+}
+
+h1, h2 {
+    margin-top: 0;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #0e4e10;
+    color: hwb(313 7% 40%);
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+footer {
+    background-color:hwb(313 7% 40%);
+    
+    color:hwb(313 7% 40%);
+    padding: 10px;
+    text-align: center;
+    clear: both;
+}
+
+
+/* Container to hold buttons */
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+/* Button styles */
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #000000;
+    background-color: hwb(20 5% 19% / 0.1);
+    border: 2px solid hwb(43 11% 33% / 0.671);
+    border-radius: 8px;
+    transition: background-color 0.3s, transform 0.3s;
+    text-align: center;
+}
+
+.button:hover {
+    background-color:  hsl(65, 93%, 48%);
+    transform: translateY(-5px);
+}
+
+.button:active {
+    transform: translateY(0);
+}
