@@ -1,0 +1,77 @@
+1. For pushing value in stack:
+2. For popping out value from the stack:
+3. For viewing last element of the stack:
+4. For checking if stack is full:
+5. For checking if stack is empty:
+6. Quit:
+   Enter your choice: 1
+   Enter a value to push in the stack: 4
+   Entered value in the stack is: 4
+7. For pushing value in stack:
+8. For popping out value from the stack:
+9. For viewing last element of the stack:
+10. For checking if stack is full:
+11. For checking if stack is empty:
+12. Quit:
+    Enter your choice: 1
+    Enter a value to push in the stack: 2
+    Entered value in the stack is: 2
+13. For pushing value in stack:
+14. For popping out value from the stack:
+15. For viewing last element of the stack:
+16. For checking if stack is full:
+17. For checking if stack is empty:
+18. Quit:
+    Enter your choice: 1
+    Enter a value to push in the stack: 6
+    Entered value in the stack is: 6
+19. For pushing value in stack:
+20. For popping out value from the stack:
+21. For viewing last element of the stack:
+22. For checking if stack is full:
+23. For checking if stack is empty:
+24. Quit:
+    Enter your choice: 1
+    Enter a value to push in the stack: 7
+    The stack is full
+25. For pushing value in stack:
+26. For popping out value from the stack:
+27. For viewing last element of the stack:
+28. For checking if stack is full:
+29. For checking if stack is empty:
+30. Quit:
+    Enter your choice: 1
+    Enter a value to push in the stack: 8
+    The stack is full
+31. For pushing value in stack:
+32. For popping out value from the stack:
+33. For viewing last element of the stack:
+34. For checking if stack is full:
+35. For checking if stack is empty:
+36. Quit:
+    Enter your choice: 1
+    Enter a value to push in the stack: 6
+    The stack is full
+37. For pushing value in stack:
+38. For popping out value from the stack:
+39. For viewing last element of the stack:
+40. For checking if stack is full:
+41. For checking if stack is empty:
+42. Quit:
+    Enter your choice: 2
+    Popped element is: 6
+43. For pushing value in stack:
+44. For popping out value from the stack:
+45. For viewing last element of the stack:
+46. For checking if stack is full:
+47. For checking if stack is empty:
+48. Quit:
+    Enter your choice: 2
+    Popped element is: 2
+49. For pushing value in stack:
+50. For popping out value from the stack:
+51. For viewing last element of the stack:
+52. For checking if stack is full:
+53. For checking if stack is empty:
+54. Quit:
+    Enter your choice:

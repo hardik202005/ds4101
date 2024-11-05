@@ -1,0 +1,108 @@
+                                            
+
+Binary Search Tree Operations:
+1. Insert
+2. Delete
+3. Search
+4. Preorder Traversal
+5. Inorder Traversal
+6. Postorder Traversal
+7. Find Minimum Element
+8. Exit
+Enter your choice: 1
+Enter value to insert: 23
+                                            
+Binary Search Tree Operations:
+1. Insert
+2. Delete
+3. Search
+4. Preorder Traversal
+5. Inorder Traversal
+6. Postorder Traversal
+7. Find Minimum Element
+8. Exit
+Enter your choice: 1
+Enter value to insert: 25
+                                            
+Binary Search Tree Operations:
+1. Insert
+2. Delete
+3. Search
+4. Preorder Traversal
+5. Inorder Traversal
+6. Postorder Traversal
+7. Find Minimum Element
+8. Exit
+Enter your choice: 1
+Enter value to insert: 26
+                                            
+Binary Search Tree Operations:
+1. Insert
+2. Delete
+3. Search
+4. Preorder Traversal
+5. Inorder Traversal
+6. Postorder Traversal
+7. Find Minimum Element
+8. Exit
+Enter your choice:  77
+Minimum element in the tree: 23
+                                            
+Binary Search Tree Operations:
+1. Insert
+2. Delete
+3. Search
+4. Preorder Traversal
+5. Inorder Traversal
+6. Postorder Traversal
+7. Find Minimum Element
+8. Exit
+Enter your choice: 2
+Enter value to delete: 25
+
+Binary Search Tree Operations:
+1. Insert
+2. Delete
+3. Search
+4. Preorder Traversal
+5. Inorder Traversal
+6. Postorder Traversal
+7. Find Minimum Element
+8. Exit
+Enter your choice: 4
+Preorder Traversal: 23 26 
+
+Binary Search Tree Operations:
+1. Insert
+2. Delete
+3. Search
+4. Preorder Traversal
+5. Inorder Traversal
+6. Postorder Traversal
+7. Find Minimum Element
+8. Exit
+Enter your choice: 5
+Inorder Traversal: 23 26 
+                                            
+Binary Search Tree Operations:
+1. Insert
+2. Delete
+3. Search
+4. Preorder Traversal
+5. Inorder Traversal
+6. Postorder Traversal
+7. Find Minimum Element
+8. Exit
+Enter your choice: 6
+Postorder Traversal: 26 23 
+
+Binary Search Tree Operations:
+1. Insert
+2. Delete
+3. Search
+4. Preorder Traversal
+5. Inorder Traversal
+6. Postorder Traversal
+7. Find Minimum Element
+8. Exit
+Enter your choice: 8

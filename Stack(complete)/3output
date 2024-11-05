@@ -1,0 +1,40 @@
+Stack Operations:
+1. Push
+2. Pop
+3. Peek
+4. isEmpty
+5. isFull
+6. Exit
+Enter your choice: 1
+Enter the value to push: 2
+Pushed 2 onto the stack.
+
+Stack Operations:
+1. Push
+2. Pop
+3. Peek
+4. isEmpty
+5. isFull
+6. Exit
+Enter your choice: 1
+Enter the value to push: 4
+Pushed 4 onto the stack.
+
+Stack Operations:
+1. Push
+2. Pop
+3. Peek
+4. isEmpty
+5. isFull
+6. Exit
+Enter your choice: 4
+The stack is not empty.
+
+Stack Operations:
+1. Push
+2. Pop
+3. Peek
+4. isEmpty
+5. isFull
+6. Exit
+Enter your choice:

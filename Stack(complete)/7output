@@ -1,0 +1,46 @@
+Menu:
+1. Push to Stack 1
+2. Push to Stack 2
+3. Pop from Stack 1
+4. Pop from Stack 2
+5. Exit
+Enter your choice: 1
+Enter value to push to Stack 1: 4
+Pushed 4 to Stack 1
+
+Menu:
+1. Push to Stack 1
+2. Push to Stack 2
+3. Pop from Stack 1
+4. Pop from Stack 2
+5. Exit
+Enter your choice: 1
+Enter value to push to Stack 1: 5
+Pushed 5 to Stack 1
+
+Menu:
+1. Push to Stack 1
+2. Push to Stack 2
+3. Pop from Stack 1
+4. Pop from Stack 2
+5. Exit
+Enter your choice: 2
+Enter value to push to Stack 2: 6
+Pushed 6 to Stack 2
+
+Menu:
+1. Push to Stack 1
+2. Push to Stack 2
+3. Pop from Stack 1
+4. Pop from Stack 2
+5. Exit
+Enter your choice: 3
+Popped 5 from Stack 1
+
+Menu:
+1. Push to Stack 1
+2. Push to Stack 2
+3. Pop from Stack 1
+4. Pop from Stack 2
+5. Exit
+Enter your choice:

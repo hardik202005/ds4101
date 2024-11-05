@@ -1,0 +1,66 @@
+Stack Operations:
+
+1. Push
+2. Pop
+3. Peek
+4. isEmpty
+5. isFull
+6. Exit
+   Enter your choice: 1
+   Enter the character to push: a
+   Pushed 'a' onto the stack.
+
+Stack Operations:
+
+1. Push
+2. Pop
+3. Peek
+4. isEmpty
+5. isFull
+6. Exit
+   Enter your choice: 1
+   Enter the character to push: b
+   Pushed 'b' onto the stack.
+
+Stack Operations:
+
+1. Push
+2. Pop
+3. Peek
+4. isEmpty
+5. isFull
+6. Exit
+   Enter your choice: 2
+   Popped 'b' from the stack.
+
+Stack Operations:
+
+1. Push
+2. Pop
+3. Peek
+4. isEmpty
+5. isFull
+6. Exit
+   Enter your choice: 2
+   Popped 'a' from the stack.
+
+Stack Operations:
+
+1. Push
+2. Pop
+3. Peek
+4. isEmpty
+5. isFull
+6. Exit
+   Enter your choice: 2
+   Stack underflow! The stack is empty.
+
+Stack Operations:
+
+1. Push
+2. Pop
+3. Peek
+4. isEmpty
+5. isFull
+6. Exit
+   Enter your choice:

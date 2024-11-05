@@ -1,0 +1,8 @@
+Enter the number of elements to push onto the stack: 4
+Enter 4 elements:
+Element 1: 4
+Element 2: 3
+Element 3: 2
+Element 4: 1
+Original Stack: 4 3 2 1 
+Sorted Stack (Ascending): 4 3 2 1

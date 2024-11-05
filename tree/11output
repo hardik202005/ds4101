@@ -1,0 +1,2 @@
+Inorder Traversal of the original Binary Tree: 20 30 5 10 15 
+Inorder Traversal of the resulting Binary Search Tree: 5 10 15 20 30 
