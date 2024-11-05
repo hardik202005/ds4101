@@ -1,0 +1,8 @@
+# Enter the number of vertices: 4
+# Enter the adjacency matrix (4 x 4):
+# 0 1 0 0
+# 1 0 0 0 
+# 0 0 1 0
+# 0 0 0 1
+# Breadth First Search (BFS) starting from vertex 0:
+# 0 1 

@@ -1,0 +1,7 @@
+      Enter the number of vertices: 3
+                        Enter the adjacency matrix (3 x 3):
+                        0 1 0
+                        1 0 1
+                        0 1 0
+                        Depth First Search (DFS) traversal starting from vertex 0:
+                        0 1 2 

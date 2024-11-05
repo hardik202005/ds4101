@@ -1,0 +1,12 @@
+Enter the number of vertices (max 10): 3
+Enter the number of edges: 3
+Enter edge 1 (format: src dest): 0
+2
+Enter edge 2 (format: src dest): 0
+1
+Enter edge 3 (format: src dest): 2
+1
+Adjacency Matrix:
+0 1 1 
+1 0 1 
+1 1 0 

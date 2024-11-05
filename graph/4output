@@ -1,0 +1,10 @@
+         Enter the number of vertices: 5
+                        Enter the number of edges: 6
+                        Enter edge 1 (source destination): 0 1
+                        Enter edge 2 (source destination): 0 2
+                        Enter edge 3 (source destination): 1 3
+                        Enter edge 4 (source destination): 1 4
+                        Enter edge 5 (source destination): 2 4
+                        Enter edge 6 (source destination): 3 4
+                        Enter the starting vertex for DFS: 0
+                        Depth-First Search Traversal starting from vertex 0: 0 1 3 4
