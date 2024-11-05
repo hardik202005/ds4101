@@ -1,0 +1,21 @@
+ENTER DIMENSIONS OF MATRIX
+Enter number of rows : 3
+Enter number of columns : 3
+Enter value to be multiplied : 3
+Enter array element [0][0] : 1
+Enter array element [0][1] : 2
+Enter array element [0][2] : 3
+Enter array element [1][0] : 2
+Enter array element [1][1] : 3 
+Enter array element [1][2] : 4
+Enter array element [2][0] : 7
+Enter array element [2][1] : 5
+Enter array element [2][2] : 8
+ORIGINAL MATRIX
+1 2 3
+2 3 4
+7 5 8
+AFTER SCALAR MULTIPLICATION
+3 6 9
+6 9 12
+21 15 24
