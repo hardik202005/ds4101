@@ -1,0 +1,13 @@
+
+Enter the length of the array : 5
+The length of the array is = 5
+Enter values for array :
+5
+4
+3
+4
+5
+Entered array is : 5    4       3       4       5 
+Enter a value to search in the array : 4
+Value to be searched in the array is : 4 
+The value found at index : 2

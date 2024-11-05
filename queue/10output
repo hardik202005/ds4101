@@ -1,0 +1,74 @@
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 1
+Enter a string to insert at front: apple
+"apple" inserted at the front of the deque.
+                                                    
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 2
+Enter a string to insert at rear: banana
+"banana" inserted at the rear of the deque.
+                                                    
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 5
+Front element is "apple"
+
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 3
+"apple" deleted from the front of the deque.
+                                                    
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 6
+Rear element is "banana"
+                                                    
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 9
+Exiting...
+           

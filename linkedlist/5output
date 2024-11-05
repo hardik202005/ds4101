@@ -1,0 +1,6 @@
+  Current Singly Linked List: Node0 -> Node1 -> Node1.5 -> Node2 -> NULL
+   After deleting at beginning: Node1 -> Node1.5 -> Node2 -> NULL
+  After deleting at end: Node1 -> Node1.5 -> NULL
+ After deleting at position 1: Node1 -> NULL
+    Value "Node1.5" not found in the list
+     Value "Node3" not found in the list

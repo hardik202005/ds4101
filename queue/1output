@@ -1,0 +1,17 @@
+1.insertion 
+ 2.deletion 
+ 3.display  
+ 4.exit     
+enter your choice:1
+enter the element:10
+item inserted:    
+enter your choice:1
+enter the element:30
+item inserted:
+enter your choice:2
+item deleted
+enter your choice:2
+item deleted
+enter your choice:2
+queue is empty:enter your choice:2
+queue is empty:enter your choice:

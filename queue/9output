@@ -1,0 +1,85 @@
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 1
+Enter an integer to insert at front: 10
+10 inserted at the front of the deque.
+
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 2
+Enter an integer to insert at rear: 20
+20 inserted at the rear of the deque.
+
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 5
+Front element is 10
+
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 3
+10 deleted from the front of the deque.
+
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 6
+Rear element is 20
+
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 8
+Deque is not full.
+
+1. Insert at Front
+2. Insert at Rear
+3. Delete from Front
+4. Delete from Rear
+5. Peek Front
+6. Peek Rear
+7. Check if Empty
+8. Check if Full
+9. Exit
+Enter your choice: 9
+Exiting...

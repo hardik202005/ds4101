@@ -1,0 +1,107 @@
+                                     
+
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter an integer to insert: 10
+10 inserted into the priority queue.
+                                        
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter an integer to insert: 20
+20 inserted into the priority queue.
+                                        
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter an integer to insert: 15
+15 inserted into the priority queue.
+                                        
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter an integer to insert: 5
+5 inserted into the priority queue.
+                                        
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter an integer to insert: 25
+25 inserted into the priority queue.
+
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter an integer to insert: 30
+Priority Queue is full. Cannot insert 30.
+                                        
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 3
+Highest priority element is 25
+                                        
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 2
+25 deleted from the priority queue.
+                                        
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 4
+Priority Queue is not empty.
+                                        
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 5
+Priority Queue is not full.
+                                        
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 6
+Exiting...
+            

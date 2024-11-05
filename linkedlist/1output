@@ -1,0 +1,6 @@
+   Current Linked List: 5 -> 10 -> 15 -> 20 -> NULL
+        After deleting at beginning: 10 -> 15 -> 20 -> NULL
+      After deleting at end: 10 -> 15 -> NULL
+        After deleting at position 1: 10 -> NULL
+       Value 15 not found in the list
+         Value 100 not found in the list

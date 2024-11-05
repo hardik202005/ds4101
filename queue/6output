@@ -1,0 +1,104 @@
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter a string to insert: apple
+"apple" inserted into the queue.
+                                    
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter a string to insert: banana
+"banana" inserted into the queue.
+
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter a string to insert: cherry
+"cherry" inserted into the queue.
+                                    
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter a string to insert: date
+"date" inserted into the queue.
+                                    
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter a string to insert: elderberry
+"elderberry" inserted into the queue.
+                                    
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter a string to insert: fig
+Queue is full. Cannot insert "fig".
+                                    
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 3
+Front element is "apple"
+                                    
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 2
+"apple" deleted from the queue.
+                                    
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 4
+Queue is not empty.
+                                    
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 5
+Queue is not full.
+
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 6
+Exiting...

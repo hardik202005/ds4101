@@ -1,0 +1,11 @@
+Enter the size of the array: 5
+Enter elements of the array: 
+5
+4
+6
+3
+4
+Enter a value to search in the array: 4
+Sorted array: 
+3 4 4 5 6
+Value found at index: 2

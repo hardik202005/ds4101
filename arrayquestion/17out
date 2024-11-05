@@ -1,0 +1,14 @@
+
+Enter the size of first array: 5
+Enter the array elements: 5
+4
+3
+2
+3
+Enter the size of second array: 4
+Enter the array elements: 3
+2
+3
+4
+The merged array: 5 4 3 2 3 3 2 3 4 
+Final array after sorting:  2  2  3  3  3  3  4  4  5

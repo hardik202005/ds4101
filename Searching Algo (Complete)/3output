@@ -1,0 +1,9 @@
+Enter the size of the array: 5
+Enter 5 integers: 
+5
+4
+5
+4
+2
+Enter the integer to search for: 4
+Value found at index 1.

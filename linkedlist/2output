@@ -1,0 +1,6 @@
+ Current Circular Linked List: 5 -> 10 -> 15 -> 20 -> (back to head)
+              After deleting at beginning: 10 -> 15 -> 20 -> (back to head)
+              After deleting at end: 10 -> 15 -> (back to head)
+              After deleting at position 1: 10 -> (back to head)
+               Value 15 not found in the list
+              Value 100 not found in the list

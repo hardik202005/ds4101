@@ -1,0 +1,6 @@
+Current Doubly Circular Linked List: Node0 <-> Node1 <-> Node1.5 <-> Node2 <-> (back to head)
+After deleting at beginning: Node1 <-> Node1.5 <-> Node2 <-> (back to head)
+After deleting at end: Node1 <-> Node1.5 <-> (back to head)
+After deleting at position 1: Node1 <-> (back to head)
+ Value "Node1.5" not found in the list
+ Value "Node3" not found in the list

@@ -1,0 +1,47 @@
+
+1. Insert
+2. Delete Max
+3. Peek Max
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter an integer to insert: 10
+10 inserted into the priority queue.
+
+1. Insert
+2. Delete Max
+3. Peek Max
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter an integer to insert: 20
+20 inserted into the priority queue.
+
+1. Insert
+2. Delete Max
+3. Peek Max
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 3
+Max element is 20
+
+1. Insert
+2. Delete Max
+3. Peek Max
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 2
+20 deleted from the priority queue.
+
+1. Insert
+2. Delete Max
+3. Peek Max
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 6
+Exiting...

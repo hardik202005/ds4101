@@ -1,0 +1,8 @@
+Enter 5 elements:
+Element 1: 5
+Element 2: 4
+Element 3: 3
+Element 4: 5
+Element 5: 4
+Enter the value of k (1 to 5): 3
+The 3-th smallest value is: 4

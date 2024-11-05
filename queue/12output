@@ -1,0 +1,47 @@
+
+1. Insert
+2. Delete Max
+3. Peek Max
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter a string to insert: apple
+"apple" inserted into the priority queue.
+
+1. Insert
+2. Delete Max
+3. Peek Max
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 1
+Enter a string to insert: banana
+"banana" inserted into the priority queue.
+
+1. Insert
+2. Delete Max
+3. Peek Max
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 3
+Max element is "banana"
+
+1. Insert
+2. Delete Max
+3. Peek Max
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 2
+"banana" deleted from the priority queue.
+
+1. Insert
+2. Delete Max
+3. Peek Max
+4. Check if Empty
+5. Check if Full
+6. Exit
+Enter your choice: 6
+Exiting...

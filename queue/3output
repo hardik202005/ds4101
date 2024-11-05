@@ -1,0 +1,8 @@
+1. Insert
+2. Delete
+3. Peek
+4. Check if Empty
+5. Exit
+Enter your choice: 1
+Enter an integer to insert: 10
+10 inserted into the queue.
