@@ -1,0 +1,11 @@
+Enter the number of elements in the array: 5
+Enter 5 elements:
+Element 1: 5
+Element 2: 4
+Element 3: 3
+Element 4: 7
+Element 5: 6
+Original array:
+5 4 3 7 6
+Copied array in reverse order:
+6 7 3 4 5

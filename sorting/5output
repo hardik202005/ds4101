@@ -1,0 +1,5 @@
+Enter the number of elements in the array: 5
+Enter 5 integers:
+64 25 12 22 11
+Sorted array: 11 12 22 25 64 
+Time taken for insertion sort: 0.000001 seconds
