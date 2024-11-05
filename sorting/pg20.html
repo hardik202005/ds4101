@@ -1,0 +1,84 @@
+#include <stdio.h>
+  #include <stdlib.h>
+  #include <string.h>
+  #include <time.h>
+  
+  #define MAX_STR_LEN 100
+  
+  void swap(char a[MAX_STR_LEN], char b[MAX_STR_LEN]) {
+      char temp[MAX_STR_LEN];
+      strcpy(temp, a);
+      strcpy(a, b);
+      strcpy(b, temp);
+  }
+  
+  
+  int partition(char arr[][MAX_STR_LEN], int low, int high) {
+      char pivot[MAX_STR_LEN];
+      strcpy(pivot, arr[high]);
+      int i = low - 1;
+  
+      for (int j = low; j < high; j++) {
+          if (strcmp(arr[j], pivot) <= 0) {
+              i++;
+              swap(arr[i], arr[j]);
+          }
+      }
+      swap(arr[i + 1], arr[high]);
+      return i + 1;
+  }
+  
+  
+  void quickSort(char arr[][MAX_STR_LEN], int low, int high) {
+      if (low < high) {
+          int pivotIndex = partition(arr, low, high);
+  
+         
+          quickSort(arr, low, pivotIndex - 1);
+          quickSort(arr, pivotIndex + 1, high);
+      }
+  }
+  
+  
+  void printArray(char arr[][MAX_STR_LEN], int n) {
+      for (int i = 0; i < n; i++) {
+          printf("%s ", arr[i]);
+      }
+      printf("\n");
+  }
+  
+  int main() {
+      int n;
+      printf("Enter the number of strings: ");
+      scanf("%d", &n);
+  
+    
+      char (*arr)[MAX_STR_LEN] = malloc(n * sizeof(*arr));
+      if (arr == NULL) {
+          fprintf(stderr, "Memory allocation failed\n");
+          return 1;
+      }
+  
+      printf("Enter %d strings:\n", n);
+      for (int i = 0; i < n; i++) {
+          scanf("%s", arr[i]);
+      }
+  
+      
+      clock_t start = clock();
+      
+      quickSort(arr, 0, n - 1);
+      
+      
+      clock_t end = clock();
+      double time_taken = (double)(end - start) / CLOCKS_PER_SEC;
+  
+      printf("Sorted strings: ");
+      printArray(arr, n);
+      printf("Time taken for recursive quick sort: %f seconds\n", time_taken);
+  
+      
+      free(arr);
+      
+      return 0;
+  }
